@@ -3,39 +3,39 @@ import ic_identification from '../../../../public/svgs/ic_identification.svg';
 import ic_lock_closed from '../../../../public/svgs/ic_lock_closed.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ["Introducing RAFT's Next-", 'Gen Cards'];
+export const desktopHeaderPhrase = ["Introducing TalentBridge's", 'Premium Services'];
 export const desktopParagraphPhrase = [
-  " Discover RAFT's latest innovation – our new cards. Elevate your banking",
-  'experience with cutting-edge features, security, and unprecedented',
-  'convenience.',
+  " Discover TalentBridge NJ's comprehensive recruitment solutions. Elevate your hiring",
+  'experience with cutting-edge matching, personalized service, and unprecedented',
+  'results.',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ["Introducing RAFT's", 'Next-Gen Cards'];
+export const mobileHeaderPhrase = ["Introducing TalentBridge's", 'Premium Services'];
 export const mobileParagraphPhrase = [
-  " Discover RAFT's latest innovation – our new cards.",
-  ' Elevate your banking experience with cutting-edge',
-  'features, security, and unprecedented',
-  'convenience.',
+  " Discover TalentBridge NJ's comprehensive recruitment solutions.",
+  ' Elevate your hiring experience with cutting-edge',
+  'matching, personalized service, and unprecedented',
+  'results.',
 ];
 
 export const edges = [
   {
-    point: 'Contactless Technology',
+    point: 'AI-Powered Matching',
     details:
-      'Our new cards come equipped with contactless technology, allowing you to make swift, secure payments with a simple tap.',
+      'Our platform uses advanced AI technology, allowing you to find perfect job matches with intelligent algorithms.',
     icon: ic_document_duplicate,
   },
   {
-    point: 'Personalization',
+    point: 'Personalized Service',
     details:
-      'Customize your card to reflect your unique style. Choose from a range of designs that suit your personality.',
+      'Customize your job search to reflect your unique career goals. Choose from personalized coaching that suits your aspirations.',
     icon: ic_identification,
   },
   {
-    point: 'Enhanced Security',
+    point: 'Confidential Process',
     details:
-      'Your peace of mind is our priority. Our cards feature advanced security measures to protect your transactions and data.',
+      'Your privacy is our priority. Our recruitment process features complete confidentiality to protect your career moves.',
     icon: ic_lock_closed,
   },
 ];

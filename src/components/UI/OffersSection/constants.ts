@@ -4,44 +4,44 @@ import wealth_management from '../../../../public/images/wealth_management.png';
 import financial_planning from '../../../../public/images/financial_planning.png';
 // For desktop
 export const desktopHeaderPhrases = [
-  'Elevate Your Financial',
-  'Journey with RAFT',
+  'Elevate Your Career',
+  'Journey with TalentBridge NJ',
 ];
 export const desktopParagraphPhrase = [
-  'RAFT offers a world of financial possibilities. From investments to payments,',
+  'TalentBridge NJ offers a world of career possibilities. From entry-level to executive roles,',
   "we've got you covered. Join us and unlock your potential today.",
 ];
 
 // For mobile
 export const mobileParagraphPhrase = [
-  'RAFT offers a world of financial possibilities. From',
-  "investments to payments, we've got you covered.",
+  'TalentBridge NJ offers a world of career possibilities. From',
+  "entry-level to executive roles, we've got you covered.",
   'Join us and unlock your potential today.',
 ];
 
 export const offers = [
   {
     illustration: seamless_payments,
-    title: 'Seamless Payments',
+    title: 'Job Matching',
     details:
-      'Enjoy secure, seamless transactions that make managing your money a breeze.',
+      'Find the perfect job match with our advanced AI-powered matching system that connects your skills with ideal opportunities.',
   },
   {
     illustration: smart_investing,
-    title: 'Smart Investing',
+    title: 'Career Coaching',
     details:
-      'Grow your wealth confidently with our personalized investment solutions, tailored to your financial goals.',
+      'Advance your career confidently with our personalized coaching services, tailored to your professional goals.',
   },
   {
     illustration: wealth_management,
-    title: 'Wealth Management',
+    title: 'Talent Management',
     details:
-      'Make informed decisions for your financial future with our wealth management expertise.',
+      'Make informed career decisions with our talent management expertise and industry insights.',
   },
   {
     illustration: financial_planning,
-    title: 'Financial Planning',
+    title: 'Career Planning',
     details:
-      'Achieve your financial dreams with our comprehensive financial planning services, guiding you toward a secure future.',
+      'Achieve your career dreams with our comprehensive career planning services, guiding you toward professional success.',
   },
 ];

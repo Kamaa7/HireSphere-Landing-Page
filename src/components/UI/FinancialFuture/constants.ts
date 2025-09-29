@@ -2,56 +2,56 @@ import ic_money_send from '../../../../public/svgs/ic_money_send.svg';
 import ic_wallet_minus from '../../../../public/svgs/ic_wallet_minus.svg';
 export const cardsInfo = [
   {
-    title: 'Spend Better',
+    title: 'Work Better',
     details:
-      'Set and achieve financial goals with ease, automate your savings, and watch your money grow without the stress.',
+      'Set and achieve career goals with ease, automate your job search, and watch your career grow without the stress.',
     icon: ic_money_send,
   },
   {
-    title: 'Invest Better',
+    title: 'Grow Better',
     details:
-      'Set and achieve financial goals with ease, automate your savings, and watch your money grow without the stress.',
+      'Set and achieve professional goals with ease, develop your skills, and watch your expertise grow without the stress.',
     icon: ic_wallet_minus,
   },
 ];
 
 export const stats = [
   {
-    number: '50+',
-    subtitle: 'cities',
+    number: '500+',
+    subtitle: 'companies',
   },
   {
-    number: '50,000+',
-    subtitle: 'transactions',
+    number: '10,000+',
+    subtitle: 'placements',
   },
   {
-    number: '3M+',
-    subtitle: 'users',
+    number: '25K+',
+    subtitle: 'candidates',
   },
   {
     number: '5+',
-    subtitle: 'user ratings',
+    subtitle: 'star rating',
   },
 ];
 
 // For desktop
 export const desktopHeaderPhrase = [
   'Confidently Shape Your',
-  'Financial Future',
+  'Career Future',
 ];
 export const desktopParagraphPhrase = [
-  'At RAFT, we empower you to confidently shape your financial future. Our modern',
-  'approach simplifies saving and investing, making it easier than ever.',
+  'At TalentBridge NJ, we empower you to confidently shape your career future. Our modern',
+  'approach simplifies job searching and career development, making it easier than ever.',
 ];
 
 // For mobile
 export const mobileHeaderPhrase = [
   'Confidently Shape',
-  ' Your Financial Future',
+  ' Your Career Future',
 ];
 export const mobileParagraphPhrase = [
-  'At RAFT, we empower you to confidently shape',
-  'your financial future. Our modern approach',
-  'simplifies saving and investing, making it easier',
+  'At TalentBridge NJ, we empower you to confidently shape',
+  'your career future. Our modern approach',
+  'simplifies job searching and career development, making it easier',
   'than ever.',
 ];

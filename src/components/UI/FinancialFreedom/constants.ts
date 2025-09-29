@@ -4,31 +4,31 @@ import ic_circle_stack from '../../../../public/svgs/ic_circle_stack.svg';
 import ic_arrows_left_right from '../../../../public/svgs/ic_arrows_right_left.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ['Your Financial Freedom,', 'Your Way'];
+export const desktopHeaderPhrase = ['Your Career Success,', 'Your Way'];
 export const desktopParagraphPhrase = [
-  'We believe that managing your finances should be effortless and cost-effective.',
-  "That's why we offer you the freedom you deserve.",
+  'We believe that finding your dream job should be effortless and rewarding.',
+  "That's why we offer you the opportunities you deserve.",
 ];
 export const desktopBriefNotePhrase = [
-  'Smart investments,',
-  'secure payments, and',
+  'Smart matching,',
+  'career coaching, and',
   'expert guidance, all in',
   'one place.',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ['Your Financial', 'Freedom, Your Way'];
+export const mobileHeaderPhrase = ['Your Career', 'Success, Your Way'];
 export const mobileParagraphPhrase = [
-  'We believe that managing your finances should be',
-  "effortless and cost-effective. That's why we offer",
-  ' you the freedom you deserve.',
+  'We believe that finding your dream job should be',
+  "effortless and rewarding. That's why we offer",
+  ' you the opportunities you deserve.',
 ];
 
 export const mobileBriefNotePhrase = [
   'Smart',
-  ' investments,',
-  'secure',
-  ' payments,',
+  ' matching,',
+  'career',
+  ' coaching,',
   'and expert',
   'guidance, all',
   'in one place.',
@@ -36,21 +36,21 @@ export const mobileBriefNotePhrase = [
 
 export const edges = [
   {
-    point: 'No minimum balance fees',
+    point: 'No placement fees for candidates',
     details:
-      'Say goodbye to minimum balance fees. Your account, your balance—no hidden charges',
+      'Say goodbye to placement fees. Your career, your choice—no hidden charges for job seekers.',
     icon: ic_banknotes,
   },
   {
-    point: 'No monthly fees',
+    point: 'Free career consultations',
     details:
-      'Bank with us without worrying about monthly fees. Keep more of your money where it belongs—in your account',
+      'Work with us without worrying about consultation fees. Get expert career advice at no cost to you.',
     icon: ic_circle_stack,
   },
   {
-    point: 'No bank transfer fees',
+    point: 'Direct employer connections',
     details:
-      'Seamlessly transfer funds without the extra cost. Send and receive money with zero bank transfer fees.',
+      'Connect directly with hiring managers without the extra hassle. Get straight to decision makers.',
     icon: ic_arrows_left_right,
   },
 ];

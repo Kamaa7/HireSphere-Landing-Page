@@ -19,23 +19,23 @@ export const animate = {
 
 export const faqData: FAQItem[] = [
   {
-    question: 'How do I create an account with RAFT?',
+    question: 'How do I get started with TalentBridge NJ?',
     answer:
-      'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      'Simply visit our website, create your profile, upload your resume, and our team will reach out to discuss your career goals and available opportunities.',
   },
   {
-    question: 'How does RAFT ensure the security of my financial data?',
+    question: 'How does TalentBridge NJ ensure the confidentiality of my job search?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'We maintain strict confidentiality protocols. Your current employer will never be contacted without your explicit permission, and all communications are handled discreetly.',
   },
   {
-    question: 'What types of transactions can I perform with RAFT?',
+    question: 'What types of positions does TalentBridge NJ specialize in?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'We specialize in placing candidates across various industries including technology, finance, healthcare, manufacturing, and professional services throughout New Jersey.',
   },
   {
-    question: 'What benefits does RAFT offer for wealth management?',
+    question: 'What benefits does TalentBridge NJ offer for career development?',
     answer:
-      'It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.',
+      'We offer personalized career coaching, resume optimization, interview preparation, salary negotiation support, and ongoing career guidance throughout your professional journey.',
   },
 ];

@@ -3,8 +3,8 @@ import './globals.css';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Raft',
-  description: 'Building the future of banking',
+  title: 'TalentBridge NJ',
+  description: 'Connecting top talent with leading companies in New Jersey',
 };
 
 export default function RootLayout({
