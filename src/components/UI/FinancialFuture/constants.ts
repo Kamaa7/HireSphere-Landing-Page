@@ -40,7 +40,7 @@ export const desktopHeaderPhrase = [
   'Career Future',
 ];
 export const desktopParagraphPhrase = [
-  'At TalentBridge NJ, we empower you to confidently shape your career future. Our modern',
+  'At Hire Sphere, we empower you to confidently shape your career future. Our modern',
   'approach simplifies job searching and career development, making it easier than ever.',
 ];
 
@@ -50,7 +50,7 @@ export const mobileHeaderPhrase = [
   ' Your Career Future',
 ];
 export const mobileParagraphPhrase = [
-  'At TalentBridge NJ, we empower you to confidently shape',
+  'At Hire Sphere, we empower you to confidently shape',
   'your career future. Our modern approach',
   'simplifies job searching and career development, making it easier',
   'than ever.',

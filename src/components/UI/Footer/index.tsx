@@ -80,7 +80,7 @@ const Footer = () => {
             </Translator>
             <CopyRight>
               <Image src={ic_copyright} alt="copyright svg" />
-              TalentBridge NJ, LLC.
+              Hire Sphere, LLC.
             </CopyRight>
           </FooterBottom>
         </FooterMainContent>

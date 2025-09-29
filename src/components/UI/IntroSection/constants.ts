@@ -3,17 +3,17 @@ import ic_identification from '../../../../public/svgs/ic_identification.svg';
 import ic_lock_closed from '../../../../public/svgs/ic_lock_closed.svg';
 
 // For desktop
-export const desktopHeaderPhrase = ["Introducing TalentBridge's", 'Premium Services'];
+export const desktopHeaderPhrase = ["Introducing Hire Sphere's", 'Premium Services'];
 export const desktopParagraphPhrase = [
-  " Discover TalentBridge NJ's comprehensive recruitment solutions. Elevate your hiring",
+  " Discover Hire Sphere's comprehensive recruitment solutions. Elevate your hiring",
   'experience with cutting-edge matching, personalized service, and unprecedented',
   'results.',
 ];
 
 // For mobile
-export const mobileHeaderPhrase = ["Introducing TalentBridge's", 'Premium Services'];
+export const mobileHeaderPhrase = ["Introducing Hire Sphere's", 'Premium Services'];
 export const mobileParagraphPhrase = [
-  " Discover TalentBridge NJ's comprehensive recruitment solutions.",
+  " Discover Hire Sphere's comprehensive recruitment solutions.",
   ' Elevate your hiring experience with cutting-edge',
   'matching, personalized service, and unprecedented',
   'results.',

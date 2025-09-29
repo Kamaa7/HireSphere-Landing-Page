@@ -5,16 +5,16 @@ import financial_planning from '../../../../public/images/financial_planning.png
 // For desktop
 export const desktopHeaderPhrases = [
   'Elevate Your Career',
-  'Journey with TalentBridge NJ',
+  'Journey with Hire Sphere',
 ];
 export const desktopParagraphPhrase = [
-  'TalentBridge NJ offers a world of career possibilities. From entry-level to executive roles,',
+  'Hire Sphere offers a world of career possibilities. From entry-level to executive roles,',
   "we've got you covered. Join us and unlock your potential today.",
 ];
 
 // For mobile
 export const mobileParagraphPhrase = [
-  'TalentBridge NJ offers a world of career possibilities. From',
+  'Hire Sphere offers a world of career possibilities. From',
   "entry-level to executive roles, we've got you covered.",
   'Join us and unlock your potential today.',
 ];
